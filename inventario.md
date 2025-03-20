@@ -4,3 +4,4 @@ elettronica Padovana
 componenti/schede_madri.md
 componenti/processori.md
 periferiche/tastiere.md
+periferiche/mouse.md

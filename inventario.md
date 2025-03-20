@@ -3,4 +3,4 @@
 elettronica Padovana
 componenti/schede_madri.md
 componenti/processori.md
-periferiche/.""
+periferiche/tastiere.md

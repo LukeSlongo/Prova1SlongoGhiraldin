@@ -1,5 +1,5 @@
 2102505
 2111009
-processori.md
-schede_madri.md
 elettronica Padovana
+componenti/schede_madri.md
+componenti/processori.md
